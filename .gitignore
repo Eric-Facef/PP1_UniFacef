@@ -1,0 +1,11 @@
+# ignora tudo
+*
+
+# permite a pasta src
+!src/
+
+# permite arquivos dentro da src
+!src/**
+
+# permite o gitignore
+!.gitignore
